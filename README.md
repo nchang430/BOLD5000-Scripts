@@ -16,7 +16,7 @@ This repository contains our scanning scripts used to collect our fMRI data. It 
 ## Script Instructions for Replication
 To replicate our collection: 
 
-1) Make sure to download our 'all_imgs.mat' file [here](https://www.google.com) and have the file in the same directory as 'all_img_names.mat' and 'ScenesEventRelated.m'. It contains all the images used for presentation.
+1) Make sure to download our 'all_imgs.mat' file [here](https://www.dropbox.com/s/c4zbu1454iuo719/all_imgs.mat?dl=1) and have the file in the same directory as 'all_img_names.mat' and 'ScenesEventRelated.m'. It contains all the images used for presentation.
 2) Run ScenesEventRelated.m
 3) Fill out subject, session, run, and whether at scanning or not. 
    Ex: Subject ID = 1, Session = 1, Run = 1, At scanner = 1 (for scanning, or 0 for testing)
