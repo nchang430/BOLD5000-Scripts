@@ -7,3 +7,11 @@ BOLD5000 is a large-scale, slow-event related fMRI dataset collected on 4 subjec
 1) 1,000 images from Scene Images (with scene categories based on SUN categories)
 2) 2,000 images from the COCO dataset
 3) 1,916 images from the ImageNet dataset
+
+This repository contains our scanning scripts used to collect our fMRI data. It is able to replicate our collection process. 
+
+To replicate our collection: 
+
+1)
+2)
+3)
