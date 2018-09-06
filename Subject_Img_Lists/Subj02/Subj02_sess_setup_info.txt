@@ -1,0 +1,8 @@
+First session listed has 3 runs(first 3 listed) of 7 scenes, 15 coco, 13 imgnet, 2 shared(repeated) 
+First session listed also has 6 runs(remaining runs listed) of 8 scenes, 14 coco, 13 imgnet, 2 shared(repeated) 
+First session runs listed below. 
+2  8  5  7  3  6  9  1  4  
+Second session listed has 9 runs of 7 scenes, 15 coco, 13 imgnet, 2 shared(repeated) 
+3-8(inclusive) session listed has 9 runs of 7 scenes, 14 coco, 13 imgnet, 3 shared(repeated) 
+The rest of the sessions listed has 10 runs of 7 scenes, 14 coco, 14 imgnet, 2 shared(repeated). Default
+9  15  10  7  13  2  6  8  12  14  5  11  4  1  3  
