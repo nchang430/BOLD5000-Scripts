@@ -12,7 +12,7 @@ Please visit our website http://BOLD5000.org for more details and news & release
 
 This repository contains our scanning scripts used to collect our fMRI data. It is able to replicate our collection process. 
 
-## Replication
+## Script Instructions for Replication
 To replicate our collection: 
 
 1) Make sure to download our 'all_imgs.mat' file [here](https://www.google.com). It contains all the images used for presentation.
