@@ -11,12 +11,12 @@ BOLD5000 is a large-scale, slow-event related fMRI dataset collected on 4 subjec
 
 Please visit our website http://BOLD5000.org for more details and news & releases.
 
-This repository contains our scanning scripts used to collect our fMRI data. It is able to replicate our collection process. 
+This repository contains our scanning scripts used to collect our fMRI data. It is able to replicate our collection process.
 
 ## Script Instructions for Replication
 To replicate our collection: 
 
-1) Make sure to download our 'all_imgs.mat' file [here](https://www.google.com). It contains all the images used for presentation.
+1) Make sure to download our 'all_imgs.mat' file [here](https://www.google.com) and have the file in the same directory as 'all_img_names.mat' and 'ScenesEventRelated.m'. It contains all the images used for presentation.
 2) Run ScenesEventRelated.m
 3) Fill out subject, session, run, and whether at scanning or not. 
    Ex: Subject ID = 1, Session = 1, Run = 1, At scanner = 1 (for scanning, or 0 for testing)
