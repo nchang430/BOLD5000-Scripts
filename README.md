@@ -1,7 +1,7 @@
 # BOLD5000
 BOLD5000: Brain, Object, Landscape Dataset <br>
 Authors: Nadine Chang, John Pyles, Abhinav Gupta, Michael Tarr, Elissa Aminoff <br>
-Paper is available on [arXiv](https://128.84.21.199/abs/1809.01281)
+Paper is available on [arXiv](https://arxiv.org/abs/1809.01281)
 
 BOLD5000 is a large-scale, slow-event related fMRI dataset collected on 4 subjects, each observing 5,254 images over 15 scanning sessions. Our images are selected from three computer vision datasets.
 
@@ -12,6 +12,7 @@ BOLD5000 is a large-scale, slow-event related fMRI dataset collected on 4 subjec
 Please visit our website http://BOLD5000.org for more details and news & releases.
 
 This repository contains our scanning scripts used to collect our fMRI data. It is able to replicate our collection process.
+Note that we ask our subjects to perform a valence task, asking whether they 'like', 'neutral', 'dislike' the image shown. The user response is shown on console and saved to output file. 
 
 ## Script Instructions for Replication
 To replicate our collection: 
