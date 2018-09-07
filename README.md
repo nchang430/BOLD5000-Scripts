@@ -3,6 +3,8 @@ BOLD5000: Brain, Object, Landscape Dataset <br>
 Authors: Nadine Chang, John Pyles, Abhinav Gupta, Michael Tarr, Elissa Aminoff <br>
 Paper is available on [arXiv](https://arxiv.org/abs/1809.01281)
 
+![Alt text](relative/path/to/img.jpg?raw=true "Sample Images")
+
 BOLD5000 is a large-scale, slow-event related fMRI dataset collected on 4 subjects, each observing 5,254 images over 15 scanning sessions. Our images are selected from three computer vision datasets.
 
 1) 1,000 images from Scene Images (with scene categories based on SUN categories)
