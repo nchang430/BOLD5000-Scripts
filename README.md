@@ -1,7 +1,7 @@
 # BOLD5000
 BOLD5000: Brain, Object, Landscape Dataset <br>
-Authors: Nadine Chang, John Pyles, Abhinav Gupta, Michael Tarr, Elissa Aminoff <br>
-Paper is available on [arXiv](https://arxiv.org/abs/1809.01281)
+Authors: Nadine Chang, John Pyles, Austin Marcus, Abhinav Gupta, Michael Tarr, Elissa Aminoff <br>
+Paper is available on [Scientific Data](https://www.nature.com/articles/s41597-019-0052-3)
 
 ![Samples images shown to subjects from our dataset](image_samples.jpg?raw=true "Sample Images")
 
